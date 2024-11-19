@@ -1,0 +1,3 @@
+# Create a ship with no torpedos in bay one and always failing torpedos in bay 2
+GT4500,0,0,10,1.0
+TORPEDO,ALL  # FAIL in the attempt to fire ALL

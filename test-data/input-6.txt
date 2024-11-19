@@ -1,0 +1,3 @@
+# Create a ship stacked torpedos in both bays
+GT4500,5,0,5,0
+TORPEDO,ALL  # SUCCESS in firing the torpedo

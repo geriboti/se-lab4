@@ -1,0 +1,3 @@
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE  #bec of coverage: it fires a torpedo from bay one and tries ti fire another from there cuz bay 2 is empty, but fails ultimately

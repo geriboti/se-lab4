@@ -1,0 +1,3 @@
+# Create a ship with stocked torpedo store in all bays that never fail
+GT4500,2,0,2,0
+TORPEDO,ALL  # should have fired all the torpedos and return true
